@@ -1,7 +1,6 @@
 # Gainz Emailer
 # Python fitness tracker using webmail 
 
-
 ############################################
 ############################################
 ---------------Get Gainz Bro!---------------
@@ -112,8 +111,7 @@ def read_email_from_gmail():
 	except Exception, e:
 		print str(e)
 	
-#Ux to provide instruction receive configuration 
-#need Username and password 
+#UI to provide config data  
 
 #Data Parser 
 
